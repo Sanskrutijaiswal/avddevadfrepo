@@ -4,25 +4,15 @@
 		"activities": [
 			{
 				"name": "Set variable1",
-				"description": "x",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": [],
-				"typeProperties": {
-					"variableName": "x",
-					"value": "10"
-				}
+				"userProperties": []
 			}
 		],
-		"variables": {
-			"x": {
-				"type": "String"
-			}
-		},
 		"annotations": []
 	}
 }
