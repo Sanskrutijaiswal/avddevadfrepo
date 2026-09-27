@@ -1,0 +1,15 @@
+{
+	"name": "sleepydatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ceeb0813-7f74-480a-b9d8-39faf82e5344",
+		"tenantId": "b41a0f82-a365-4514-bce8-a34cac507d40"
+	}
+}
